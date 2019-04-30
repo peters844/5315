@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <Product_Number>James Bond</Product_Number>
-      <Product_Name>Accountant</Product_Name>
-      <Product_Price>$170,750</Product_Price>
-      <Product_Supplier>2011/07/25</Product_Supplier>
+      <Product_Number>200</Product_Number>
+      <Product_Name>Apple</Product_Name>
+      <Product_Price>$1</Product_Price>
+      <Product_Supplier>YakimaValley</Product_Supplier>
     </data>
+        <data>
+      <Product_Number>200</Product_Number>
+      <Product_Name>Apple</Product_Name>
+      <Product_Price>$1</Product_Price>
+      <Product_Supplier>YakimaValley</Product_Supplier>
+    </data>
+    
   </employees>
