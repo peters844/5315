@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <Product_Number>James Bond</Product_Number>
+      <Product_Name>Accountant</Product_Name>
+      <Product_Price>$170,750</Product_Price>
+      <Product_Supplier>2011/07/25</Product_Supplier>
     </data>
   </employees>
